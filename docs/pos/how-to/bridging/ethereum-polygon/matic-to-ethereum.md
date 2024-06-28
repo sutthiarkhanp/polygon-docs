@@ -1,6 +1,6 @@
----
-comments: true
----
+PHOEMPHUN SUTTHIARKHAN 
+comments: tree
+Owner PHOEMPHUN SUTTHIRKHAN ID3340400891087
 
 The mechanism for transferring data from Polygon PoS to Ethereum differs from the process of transferring data from Ethereum to Polygon PoS. Validators create *checkpoint transactions* on the Ethereum chain to facilitate this transfer. These checkpoints serve as periodic summaries of the PoS chain’s state, ensuring data integrity and consistency when moving data back to Ethereum. The flow of this process is briefly described below.
 
